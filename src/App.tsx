@@ -22,7 +22,7 @@ const App = () => {
     username: 'ditz.ofc',
     bio: 'Full-Stack Developer | Learn Hard, Build, And Sharing ✨',
     avatar: profile,
-    tags: ['React', 'NextJS', 'TailwindCSS', 'TypeScript', 'JavaScript', 'Java', 'Kotlin', 'Go-Lang', 'Python', 'C/C++', 'Rust']
+    tags: ['React', 'React Native', 'Vite', 'NextJS', 'TailwindCSS', 'Django', 'Laravel', 'TypeScript', 'JavaScript', 'PHP', 'Java', 'Kotlin', 'Go-Lang', 'Python', 'C/C++', 'Rust']
   };
 
   if (!mounted) return null;

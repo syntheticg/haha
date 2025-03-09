@@ -3,7 +3,7 @@ import Background from './components/Background';
 import LoadingScreen from './components/LoadingScreen';
 import LinkSection from './components/LinkSection';
 import './styles/global.css';
-import profile from "./assets/images/profile.jpg"
+import profile from "./assets/images/pfp.jpg"
 
 const App = () => {
   const [loading, setLoading] = useState(true);

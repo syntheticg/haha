@@ -18,12 +18,12 @@ const App = () => {
   };
 
   const userProfile = {
-    name: 'DitzDev',
-    username: 'ditz.ofc',
-    bio: 'Full-Stack Developer | Learn Hard, Build, And Sharing ✨',
+    name: 'Galih',
+    username: 'irhvnn',
+    bio: 'AI Enthusiast | Exploring AI & Coding ✨',
     avatar: profile,
-    tags: ['React', 'React Native', 'Vite', 'NextJS', 'TailwindCSS', 'Django', 'Laravel', 'TypeScript', 'JavaScript', 'PHP', 'Java', 'Kotlin', 'Go-Lang', 'Python', 'C/C++', 'Rust']
-  };
+    tags: ['Python', 'JavaScript', 'TypeScript', 'Node.js', 'AI', 'Machine Learning', 'Deep Learning']
+};
 
   if (!mounted) return null;
 

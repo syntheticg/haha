@@ -18,11 +18,11 @@ const App = () => {
   };
 
   const userProfile = {
-    name: 'Galih',
+    name: 'galih',
     username: 'irhvnn',
     bio: 'AI Enthusiast | Exploring AI & Coding ✨',
     avatar: profile,
-    tags: ['Python', 'JavaScript', 'TypeScript', 'Node.js', 'AI', 'Machine Learning', 'Deep Learning']
+    tags: ['Python', 'JavaScript', 'TypeScript', 'Node.js', 'HTML', 'CSS', 'PHP', 'Machine Learning', 'Deep Learning', 'TensorFlow', 'PyTorch']
 };
 
   if (!mounted) return null;

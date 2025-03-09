@@ -8,28 +8,28 @@ const LinkSection: React.FC = () => {
     {
       id: '1',
       platform: 'GitHub',
-      url: 'https://github.com/DitzDev',
+      url: 'https://github.com/syntheticg',
       icon: 'github',
       color: '#333'
     },
     {
       id: '2',
       platform: 'YouTube',
-      url: 'https://youtube.com/@DitzDev',
+      url: 'https://youtube.com/@galihrhgnwn',
       icon: 'youtube',
       color: '#FF0000'
     },
     {
       id: '3',
       platform: 'Instagram',
-      url: 'https://instagram.com/ditzzydev',
+      url: 'https://instagram.com/galihrhgnwn',
       icon: 'instagram',
       color: '#E1306C'
     },
     {
       id: '4',
       platform: 'TikTok',
-      url: 'https://tiktok.com/@ditz.ofc',
+      url: 'https://tiktok.com/@tensorflowptyc',
       icon: 'tiktok',
       color: '#000000'
     }
